@@ -1,0 +1,10 @@
+{
+  "label": "2. Character Creation",
+  "position": 2,
+  "link": {
+    "type": "doc",
+    "id": "characters/index"
+  },
+  "collapsible": "false",
+  "collapsed": "false"
+}
