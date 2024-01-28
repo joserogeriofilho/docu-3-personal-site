@@ -38,3 +38,15 @@
 * {
   font-family: 'IBM Plex Mono', monospace;
 }
+
+h1 {
+  font-size: 2rem !important;
+}
+
+h2 {
+  font-size: 1.5rem !important;
+}
+
+h3 {
+  font-size: 1rem !important;
+}
