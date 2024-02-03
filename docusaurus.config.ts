@@ -82,11 +82,11 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Links',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Google',
+              to: 'http://www.google.com',
             },
           ],
         },
