@@ -2,19 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joserogeriofilho.github.io/docu-3-personal-site/blog</id>
     <title>My Site Blog</title>
-    <updated>2024-02-04T21:05:27.000Z</updated>
+    <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://joserogeriofilho.github.io/docu-3-personal-site/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://joserogeriofilho.github.io/docu-3-personal-site/img/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[this-is-a-new-blog-post]]></title>
-        <id>https://joserogeriofilho.github.io/docu-3-personal-site/blog/this-is-a-new-blog-post</id>
-        <link href="https://joserogeriofilho.github.io/docu-3-personal-site/blog/this-is-a-new-blog-post"/>
-        <updated>2024-02-04T21:05:27.000Z</updated>
-        <summary type="html"><![CDATA[Hello! This is a new blog post]]></summary>
-        <content type="html"><![CDATA[<p>Hello! This is a new blog post</p>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Donec maximus tortor]]></title>
         <id>https://joserogeriofilho.github.io/docu-3-personal-site/blog/welcome</id>

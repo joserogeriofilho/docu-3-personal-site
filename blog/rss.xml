@@ -4,18 +4,10 @@
         <title>My Site Blog</title>
         <link>https://joserogeriofilho.github.io/docu-3-personal-site/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Sun, 04 Feb 2024 21:05:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[this-is-a-new-blog-post]]></title>
-            <link>https://joserogeriofilho.github.io/docu-3-personal-site/blog/this-is-a-new-blog-post</link>
-            <guid>https://joserogeriofilho.github.io/docu-3-personal-site/blog/this-is-a-new-blog-post</guid>
-            <pubDate>Sun, 04 Feb 2024 21:05:27 GMT</pubDate>
-            <description><![CDATA[Hello! This is a new blog post]]></description>
-            <content:encoded><![CDATA[<p>Hello! This is a new blog post</p>]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[Donec maximus tortor]]></title>
             <link>https://joserogeriofilho.github.io/docu-3-personal-site/blog/welcome</link>
