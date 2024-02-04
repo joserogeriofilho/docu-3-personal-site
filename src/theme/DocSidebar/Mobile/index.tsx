@@ -18,8 +18,8 @@ const DocSidebarMobileSecondaryMenu: NavbarSecondaryMenuComponent<Props> = ({
   return (
     <>
       <hr />
-      <h3>TUTORIAL</h3>
       <ul className={clsx(ThemeClassNames.docs.docSidebarMenu, 'menu__list')}>
+        <h3>TUTORIAL</h3>
         <DocSidebarItems
           items={sidebar}
           activePath={path}

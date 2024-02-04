@@ -54,3 +54,7 @@ h3 {
 .clean-btn.navbar-sidebar__back {
   display: none;
 }
+
+.menu__list h3 {
+  padding: 0 0.75rem 0 0.75rem;
+}
